@@ -11,7 +11,6 @@
       <button @click.prevent='handleClick'>添加</button>
       <button @click.prevent='getClick'>查看</button>
     </form>
-
   </div>
 </template>
 
